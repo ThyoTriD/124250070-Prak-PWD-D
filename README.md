@@ -13,21 +13,21 @@ Oleh karena itu, **Ladangku** hadir sebagai solusi berbasis teknologi untuk meng
 Dengan pendekatan berbasis web, Ladangku dapat diakses dengan mudah kapan saja dan di mana saja, sehingga mendukung pertanian modern yang lebih fleksibel.
 
 ##  Fitur Utama
-- **Validasi Lahan**
+**Validasi Lahan**
   - Sistem akan mengecek apakah luas lahan memenuhi syarat (minimal 2 meter persegi)
   - Jika tidak memenuhi, pengguna tidak dapat melanjutkan
 
-- **Sistem Member**
+**Sistem Member**
   - Pengguna dengan status member mendapatkan diskon 10%
   - Menggunakan konsep array dalam pengolahan data
 
--  **Perulangan (Looping)**
+**Perulangan (Looping)**
   - Digunakan untuk pengolahan data secara berulang dalam sistem
 
--  **Antarmuka Web Responsif**
+**Antarmuka Web Responsif**
   - Dibangun menggunakan HTML & CSS (dengan Bootstrap jika digunakan)
 
--  **Logika Backend (PHP)**
+**Logika Backend (PHP)**
   - Menggunakan percabangan (if-else)
   - Mengelola input dan proses data pengguna
 
